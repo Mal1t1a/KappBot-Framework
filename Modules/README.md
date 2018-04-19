@@ -1,2 +1,2 @@
-# Introduction
+# Introduction to Modules
 Modules were created to allow for the bot to easily be configured with seamless integration. We can add/edit/remove modules at any-time without having to restart the bot instance. We can create a range of basic chat commands to complicated algorithms performing in real-time. There is no end to the amount of content you can integrated and generate with this system. We will explore a variety of samples that will help us better understand this modular system.
