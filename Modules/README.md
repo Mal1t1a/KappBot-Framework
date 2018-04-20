@@ -10,3 +10,5 @@ https://github.com/Mal1t1a/KappBot-Framework/blob/master/Modules/!asschest.js
 
 You can view the full source code to [!essadapter](https://github.com/Mal1t1a/KappBot-Framework/blob/master/Modules/!essadapter.js) here:
 https://github.com/Mal1t1a/KappBot-Framework/blob/master/Modules/!essadapter.js
+# MUCH more to come
+So stay tuned.
